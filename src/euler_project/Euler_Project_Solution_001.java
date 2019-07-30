@@ -29,4 +29,5 @@ public class Euler_Project_Solution_001 {
        //     sum+=num;}
         System.out.println(mysum);
     }
+    
 }
